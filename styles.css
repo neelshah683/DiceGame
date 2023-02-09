@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.refresh{
+  margin-left: 5%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+background-image: linear-gradient(to top, lightblue  , lightgreen);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #F2921D;
+}
+
+p {
+  font-size: 2.5rem;
+  color: blue;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 6%;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+}
